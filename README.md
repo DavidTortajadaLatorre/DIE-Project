@@ -5,7 +5,7 @@ David Tortajada, Afonso Meneses and Sergiu Bogdan**
    ![Picture2](https://github.com/user-attachments/assets/47679d20-630a-4800-95c4-c9f8d8948e83)
 
 We are presenting three different results:
-
+<p align="justify"> Your Text </p>
 1 Creating a Basic Model: 
 
 We had several problems with the automatic labeling of our training and testing data. Edge Impulse required us to manually assign (or at least verify an automatic recognition) each label. 
