@@ -2,7 +2,7 @@
 **Fruit Classification Project - Digital Electronics - VUT Brno November 2024 
 David Tortajada, Afonso Meneses and Sergiu Bogdan**
 
- ![Picture2](https://github.com/user-attachments/assets/47679d20-630a-4800-95c4-c9f8d8948e83)
+   ![Picture2](https://github.com/user-attachments/assets/47679d20-630a-4800-95c4-c9f8d8948e83)
 
 We are presenting three different results:
 
