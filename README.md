@@ -6,7 +6,7 @@
 ![Picture2](https://github.com/user-attachments/assets/47679d20-630a-4800-95c4-c9f8d8948e83)
  
 <p align="justify">
-Hello, we are three Erasmus students in VUT Brno (Czech Republic), at the moment completing our Digital Electronics subject. In our case, we are learning about Machine Learning, firstly an introduction course, secondly a practical project with Edge Impulse and finally a complete example with Pythob. We are presenting three different results:
+Hello, we are three Erasmus students in VUT Brno (Czech Republic), at the moment completing our Digital Electronics subject. In our case, we are learning about Machine Learning in the following way: firstly an introduction theoretical course, secondly a practical project with Edge Impulse and finally a complete example with Python. We are presenting three different results:
 
 1-Creating a Basic Model: 
 
