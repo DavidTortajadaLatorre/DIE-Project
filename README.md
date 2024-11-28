@@ -19,7 +19,7 @@ _In this case we are trying to beat an already done project trying to adjust dif
 
 3-Python Program:
 
-_Last but not least, we opt for a “non limited” option using Python. There will be 10 different classes, starting with ten different inputs of each fruit (910 training photographs)._ 
+_Last but not least, we opt for a “non limited” option using Python. There will be 10 different classes, starting with 91 different inputs of each fruit (910 training photographs). Total photographies (Training + Tesing) is 3398._ 
 
 _We will discuss the problems we encountered (overfitting) as well as commenting on the use of certain crucial aspects in Machine Learning such as one hot encoding, early stopping, typical libraries, cross validation… and the reasons behind._
 
