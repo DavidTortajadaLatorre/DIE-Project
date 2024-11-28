@@ -10,7 +10,7 @@ Hello, we are three Erasmus students in VUT Brno (Czech Republic), at the moment
 
 1-Creating a Basic Model: 
 
-_We had several problems with the automatic labeling of our training and testing data. Edge Impulse required us to manually assign (or at least verify an automatic recognition) each label. 
+_We had several problems with the automatic labeling of our training and testing data. Edge Impulse required us to manually assign each label (or at least verify an automatic recognition) . 
 That is why in the first place we are presenting a Fruit Classification Problem with just two types: apples and bananas. However we will be using a quite large manually labeled dataset: 400 photographs for training and 200 for testing._
 
 2-Improving a Public Project:
