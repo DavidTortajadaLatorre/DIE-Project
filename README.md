@@ -11,18 +11,18 @@ David Tortajada, Afonso Meneses and Sergiu Bogdan
 We are presenting three different results:
 
 1-Creating a Basic Model: 
-
+_
 We had several problems with the automatic labeling of our training and testing data. Edge Impulse required us to manually assign (or at least verify an automatic recognition) each label. 
-That is why in the first place we are presenting a Fruit Classification Problem with just two types: apples and bananas. However we will be using a quite large manually labeled dataset: 400 photographs for training and 200 for testing.
+That is why in the first place we are presenting a Fruit Classification Problem with just two types: apples and bananas. However we will be using a quite large manually labeled dataset: 400 photographs for training and 200 for testing._
 
 2-Improving a Public Project:
 
-In this case we are trying to beat an already done project trying to adjust different aspects of the model such as learning rate, neural network architecture, image processing blocks… The initial accuracy we want to outperform is 82%.
+_In this case we are trying to beat an already done project trying to adjust different aspects of the model such as learning rate, neural network architecture, image processing blocks… The initial accuracy we want to outperform is 82%._
 
 3-Python Program:
 
-Last but not least, we opt for a “non limited” option using Python. There will be 10 different classes, starting with ten different inputs of each fruit (910 training photographs). 
+_Last but not least, we opt for a “non limited” option using Python. There will be 10 different classes, starting with ten different inputs of each fruit (910 training photographs). 
 
-We will discuss the problems we encountered (overfitting) as well as commenting on the use of certain crucial aspects in Machine Learning such as one hot encoding, early stopping, typical libraries, cross validation… and the reasons behind.
+We will discuss the problems we encountered (overfitting) as well as commenting on the use of certain crucial aspects in Machine Learning such as one hot encoding, early stopping, typical libraries, cross validation… and the reasons behind._
 
  </p>
