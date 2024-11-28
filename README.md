@@ -1,5 +1,5 @@
 # DIE-Project
-**Fruit Classification Project - Digital Electronics - VUT Brno November 2024 
+**Fruit Classification Project - Digital Electronics - VUT Brno November 2024** 
 David Tortajada, Afonso Meneses and Sergiu Bogdan**
 <p align="center">
  
