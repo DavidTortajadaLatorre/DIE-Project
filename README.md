@@ -1,12 +1,10 @@
 # DIE-Project
 **Fruit Classification Project - Digital Electronics - VUT Brno November 2024** 
 
-David Tortajada, Afonso Meneses and Sergiu Bogdan
-<p align="center">
- 
-![Picture2](https://github.com/user-attachments/assets/47679d20-630a-4800-95c4-c9f8d8948e83)
+**David Tortajada, Afonso Meneses and Sergiu Bogdan**
 
-</p>  
+![Picture2](https://github.com/user-attachments/assets/47679d20-630a-4800-95c4-c9f8d8948e83)
+ 
 <p align="justify">
 We are presenting three different results:
 
@@ -21,8 +19,8 @@ _In this case we are trying to beat an already done project trying to adjust dif
 
 3-Python Program:
 
-_Last but not least, we opt for a “non limited” option using Python. There will be 10 different classes, starting with ten different inputs of each fruit (910 training photographs). 
+_Last but not least, we opt for a “non limited” option using Python. There will be 10 different classes, starting with ten different inputs of each fruit (910 training photographs)._ 
 
-We will discuss the problems we encountered (overfitting) as well as commenting on the use of certain crucial aspects in Machine Learning such as one hot encoding, early stopping, typical libraries, cross validation… and the reasons behind._
+_We will discuss the problems we encountered (overfitting) as well as commenting on the use of certain crucial aspects in Machine Learning such as one hot encoding, early stopping, typical libraries, cross validation… and the reasons behind._
 
  </p>
