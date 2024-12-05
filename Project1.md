@@ -1,12 +1,12 @@
 <p align="justify">
 
 **First project: Creating a Basic Model.** 
+
 With default settings, we would obtain these results:
 
-![image](https://github.com/user-attachments/assets/47bc76a1-0daa-4907-9742-77fae5ad6258)
-![image](https://github.com/user-attachments/assets/cfa1f619-44da-40dc-ba72-0a740c38bd89)
+**Accuracy: 55% / Pecision 17%**
 
- For the first attempt at creating the model, 2 groups called “apples” and “bananas” were used, each with 100 photographers for training and 50 for testing on YOLOv5
+For the first attempt at creating the model, 2 groups called “apples” and “bananas” were used, each with 100 photographers for training and 50 for testing on YOLOv5
 the transfer learning model based on Ultralytics YOLOv5 using yolov5n.pt weights, accepts RGB input at any resolution (only square images), but with the increase in the number of photographers 425 for training and 122 for testing this model due to limited time and the large number of samples, it cannot complete the task started.
 
 ![image](https://github.com/user-attachments/assets/d20aa8c2-90b8-456e-88f0-0a3ce9b1fbdc)
