@@ -2,7 +2,7 @@
  
 **The second challenge consists of trying to beat a pre-existing model while keeping the network complexity and computing resources as close as possible to the original.**
 
-Link: https://studio.edgeimpulse.com/studio/573557
+Our model: Link: https://studio.edgeimpulse.com/studio/573557
 
 In first place we need to know what is the structure of the existing model (blocks), as well as its hyperparameters and internal settings.
 
