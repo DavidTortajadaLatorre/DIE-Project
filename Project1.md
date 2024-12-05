@@ -3,6 +3,8 @@
 **First project: Creating a Basic Model.** 
 
 _Data used: 2 manually labeled classes._ 
+![image](https://github.com/user-attachments/assets/e031998a-d3e1-4af1-8b03-64adb1bff858)
+
 
 With default settings, we would obtain these results:
 
