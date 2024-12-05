@@ -1,4 +1,7 @@
-1 Creating a Basic Model:
+<p align="justify">
+
+**First project: Creating a Basic Model.** 
+With default settings, we would obtain these results:
 
 ![image](https://github.com/user-attachments/assets/47bc76a1-0daa-4907-9742-77fae5ad6258)
 ![image](https://github.com/user-attachments/assets/cfa1f619-44da-40dc-ba72-0a740c38bd89)
@@ -21,3 +24,5 @@ For the third attempt, a more rudimentary model, FOMO (Faster Objects, More Obje
 This model did not perform very well given the limited time given by the program in the standard training plan, its run and test version.
 
 In conclusion, a machine learning model needs time, resources and strength - many samples passed through countless training cycles - to reach the necessary maturity and maximize the precision and accuracy of an image detection and classification program.
+
+ </p>
