@@ -47,6 +47,9 @@ After training, the model is evaluated on the test set to compute the final test
 ![image](https://github.com/user-attachments/assets/25b9ddc1-fdf4-41a1-8c27-72a50357a7bb)
 
 ![image](https://github.com/user-attachments/assets/5f5f9176-da64-41e1-8de7-fe56db9b3645)
+
+The neural network demonstrates strong performance in the fruit classification task, with increasing training and validation accuracy and consistently decreasing loss curves. This indicates effective learning and good generalization. **The close alignment of training and validation metrics suggests minimal overfitting.** Additionally, the confusion matrix shows accurate predictions across all classes, with only minor misclassifications, confirming balanced and reliable model performance.
+
  </p>
 
 
