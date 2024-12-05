@@ -1,7 +1,3 @@
-Bogdan 
-
-What dataset is used in 
-![image](https://github.com/user-attachments/assets/be9a7fe3-9622-4e9d-844b-7a8634da8c88)
 1 Creating a Basic Model:
 
 ![image](https://github.com/user-attachments/assets/47bc76a1-0daa-4907-9742-77fae5ad6258)
