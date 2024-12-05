@@ -38,6 +38,13 @@ After training, the model is evaluated on the test set to compute the final test
 
 **-Overfitting**
 
+**Main Problem Faced: Overfitting due to...**
+
+The main reason behind overfitting behaviour was due to a unsuitable choice of the batch size, we noticed a substantial improvement after incresing the batch from 80 to 200. 
+In addition, the inital model was way too complex. As a consequence, we reduced number of layers and its size.
+
+![image](https://github.com/user-attachments/assets/55dc1359-ee1c-4b7b-a744-9a5207fc0b3c)
+
 **Results:**
 
 
