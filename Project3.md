@@ -38,12 +38,11 @@ After training, the model is evaluated on the test set to compute the final test
 
 **Results:**
 
-![WhatsApp Image 2024-12-05 at 13 18 53](https://github.com/user-attachments/assets/bf4e11a9-da53-426c-a3a7-53a2c74f84b8)
+![image](https://github.com/user-attachments/assets/0217b5a0-558f-407c-80fd-4a3a926efa75)
 
-![WhatsApp Image 2024-12-05 at 13 18 54](https://github.com/user-attachments/assets/06cb60d9-ad2a-4e03-9f3d-6a67516b3564)
+![image](https://github.com/user-attachments/assets/25b9ddc1-fdf4-41a1-8c27-72a50357a7bb)
 
-![WhatsApp Image 2024-12-05 at 13 18 53 (1)](https://github.com/user-attachments/assets/98bde424-8654-46b4-ac2a-101d707e8d31)
-
+![image](https://github.com/user-attachments/assets/5f5f9176-da64-41e1-8de7-fe56db9b3645)
 
 
 
