@@ -1,3 +1,4 @@
+<p align="justify">
 The second challenge consists of trying to beat a pre-existing model while keeping the network complexity and computing resources as close as possible to the original.
 
 In first place we need to know what is the structure of the existing model (blocks), as well as its hyperparameters and internal settings.
@@ -25,3 +26,6 @@ As proposed in the next webpage, reducing the size of the images might improve t
 For the block structure, Edge Impulse offers, by default (in this type of problem), a pre-trained model. If we use the “classical” Classification block, we would be able to manually design the complexity and depth of the network. However, as it may be expected, after a couples of tries we couldn’t get any better results.
 
 
+
+
+ </p>
