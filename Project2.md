@@ -38,8 +38,10 @@ We expect a sligth enhancement
 
 Now, we are proposing a grid search experiment with dropout rates (0.1, 0.2, 0.5) to determine the optimal setting for our dataset.
 
-Original/Default dropout: 0.1 --- Accuracy: 82%
-
+Dropout: 0.1 --- Accuracy: 82% (Original/Default)
+Dropout: 0.1 --- Accuracy: 86%
+Dropout: 0.1 --- Accuracy: 84%
+Dropout: 0.6 --- Accuracy: 78%
 
 **Fifth Aim: More training cycles** 
 
