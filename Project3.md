@@ -6,7 +6,7 @@ It worth noting that in this particular run, the train and validation set provid
 
 The dataset is loaded using TensorFlow’s image_dataset_from_directory function, which **automatically labels the images based on their folder structure**. The data is batched for efficiency, and a few sample images along with their labels are visualized to confirm correct loading.
 
-The images are **preprocessed by normalizing their pixel values to a range between 0 and 1**, ensuring that all features are on a consistent scale. Labels are converted to one-hot encoded vectors, suitable for multi-class classification. The dataset is then split into training (70%), validation (20%), and testing (10%) subsets.
+The images are **preprocessed by normalizing their pixel values to a range between 0 and 1**, ensuring that all features are on a consistent scale. Labels are converted to **one-hot encoded vectors**, suitable for multi-class classification. The dataset is then split into training (70%), validation (20%), and testing (10%) subsets.
 
 The CNN model is constructed using a **sequential approach**. It comprises convolutional layers for feature extraction, pooling layers to reduce spatial dimensions, and dropout layers to prevent overfitting by randomly deactivating neurons during training. A flattening layer converts 2D feature maps into a 1D vector, followed by dense layers for classification. The final output layer uses a softmax activation function to produce probabilities for each of the ten classes.
 
@@ -22,6 +22,7 @@ After training, the model is evaluated on the test set to compute the final test
 **-TensorFlow and Keras libraries**
 **-Multiclass**
 **-Normalization**
+**-One-Hot Encoding**
 **-Layer Structure**
 **-Adam Optimizer**
 **-Accuracy Curves**
