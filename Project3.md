@@ -37,13 +37,13 @@ After training, the model is evaluated on the test set to compute the final test
 **-Overfitting**
 
 **Results:**
-
+<p align="justify">
 ![image](https://github.com/user-attachments/assets/0217b5a0-558f-407c-80fd-4a3a926efa75)
 
 ![image](https://github.com/user-attachments/assets/25b9ddc1-fdf4-41a1-8c27-72a50357a7bb)
 
 ![image](https://github.com/user-attachments/assets/5f5f9176-da64-41e1-8de7-fe56db9b3645)
-
+ </p>
 
 
 
