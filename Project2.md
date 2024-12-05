@@ -47,15 +47,17 @@ We are expecting an enhancement as a result of having more and better-quality da
 
 **Fourth Idea: Dropout rate.**
 
-Now, we are proposing a grid search experiment with dropout rates (0.1, 0.2, 0.5) to determine the optimal setting for our dataset.
+Now, we are proposing a grid search experiment with dropout rates (0.1, 0.2, 0.5...) to determine the optimal setting for our dataset.
 
 Dropout: 0.1 --- Accuracy: 82% (Original/Default)
 
-Dropout: 0.1 --- Accuracy: 86%
+Dropout: 0.2 --- Accuracy: 86%
 
-Dropout: 0.1 --- Accuracy: 84%
+Dropout: 0.5 --- Accuracy: 84%
 
 Dropout: 0.6 --- Accuracy: 78%
+
+This rate can be adjusted to reduce overfitting. 0.2 would be ideal.
 
 **Fifth Aim: More training cycles** 
 
