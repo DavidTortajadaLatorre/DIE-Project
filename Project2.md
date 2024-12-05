@@ -12,9 +12,11 @@ _Tuning Hyperparameters: Training Cycles = 20, LR = 0.0005_
 _Model: MobileNetV2 96x96 0.35 (final layer: 16 neurons, 0.1 dropout)_ 
 
 Initial Scheme:
+
 ![image](https://github.com/user-attachments/assets/719c1526-f756-49a7-9478-605f0350d2fb)
 
-Initial Results: 
+Initial Results:
+
 ![image](https://github.com/user-attachments/assets/40c332d7-91df-4b4a-9bec-2264c5a3b5a6)
 
 **First Idea: ADAPTATIVE LEARNING RATE!**
