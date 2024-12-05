@@ -18,11 +18,13 @@ After training, the model is evaluated on the test set to compute the final test
 
 **Main Points Covered:** 
 
--CNN
--TensorFlow and Keras libraries
--Multiclass
--Normalization
--Layer Structure
--Adam Optimizer
--Accuracy Curves
--Overfitting
+**-CNN**
+**-TensorFlow and Keras libraries**
+**-Multiclass**
+**-Normalization**
+**-Layer Structure**
+**-Adam Optimizer**
+**-Accuracy Curves**
+**-Overfitting**
+
+
