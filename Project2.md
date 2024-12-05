@@ -29,18 +29,26 @@ For the block structure, Edge Impulse offers, by default (in this type of proble
 
 
 
-**Third approach: From grayscale to colour.**
+**Third approach: From grayscale to colour + Data Augmentation**
+
+We expect a sligth enhancement 
+
+**Fourth Idea: Dropout rate.**
+
+Now, we are proposing a grid Search: Experiment with dropout rates (e.g., 0.1, 0.2, 0.5) to determine the optimal setting for our dataset.
+
+Original/Default dropout: 0.1 --- Accuracy: 82%
 
 
-**Fourth Idea: New Model with similar size.**
+**Forth Idea: More training cycles** 
 
-We believe it is crucial in the exercise we are proposing the idea of respecting (approximately) the size of the original model. It is clear that if we use a more complex model we will gain in every performance metrics, 
+This might not be the best approach since we would be breaking the rules: trying to beat the model in efficiency not size/computer resources. However, I think that just augmenting the number of training cycles
 
 
 
  </p>
 
-
+**Last but not least: How to interpret results?**
 
  [1] https://docs.arduino.cc/tutorials/nicla-vision/image-classification/
 
