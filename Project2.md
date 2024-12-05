@@ -35,12 +35,12 @@ We expect a sligth enhancement
 
 **Fourth Idea: Dropout rate.**
 
-Now, we are proposing a grid Search: Experiment with dropout rates (e.g., 0.1, 0.2, 0.5) to determine the optimal setting for our dataset.
+Now, we are proposing a grid search experiment with dropout rates (0.1, 0.2, 0.5) to determine the optimal setting for our dataset.
 
 Original/Default dropout: 0.1 --- Accuracy: 82%
 
 
-**Forth Idea: More training cycles** 
+**Fifth Aim: More training cycles** 
 
 This might not be the best approach since we would be breaking the rules: trying to beat the model in efficiency not size/computer resources. However, I think that just augmenting the number of training cycles
 
