@@ -34,7 +34,9 @@ As proposed in the cited webpage [1], reducing the size of the images might impr
 For the block structure, Edge Impulse offers, by default (in this type of problem), a pre-trained model. If we use the “classical” Classification block, we would be able to manually design the complexity and depth of the network. However, as it may be expected, after a couples of tries we couldn’t get any better results.
 
 ![image](https://github.com/user-attachments/assets/f69fb871-cca6-4c81-b6b9-7bfbeaf1f886)
-________________________________________________________________________________________________
+
+-----------------------------------------------------------------------------------------
+
 ![image](https://github.com/user-attachments/assets/6b33eb1b-2ca7-4b43-ad16-fa7eb3bad862)
 
 **Third approach: From grayscale to colour + Data Augmentation**
