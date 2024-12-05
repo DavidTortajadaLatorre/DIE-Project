@@ -32,7 +32,7 @@ For the block structure, Edge Impulse offers, by default (in this type of proble
 
 **Third approach: From grayscale to colour + Data Augmentation**
 
-We expect a sligth enhancement 
+We are expecting an enhancement as a result of having more and better-quality data.
 
 **Fourth Idea: Dropout rate.**
 
@@ -48,8 +48,9 @@ Dropout: 0.6 --- Accuracy: 78%
 
 **Fifth Aim: More training cycles** 
 
-This might not be the best approach since we would be breaking the rules: trying to beat the model in efficiency not size/computer resources. However, We think that just augmenting the number of training cycles and therefore the trainig time by some minutes is an assumable option.
+This might not be the best approach since we would be breaking the rules: trying to beat the model in efficiency not size/computer resources. However, we think that just augmenting the number of training cycles and therefore the trainig time by some minutes is an assumable option.
 
+From 20 to 50 training cycles:
 
 
  </p>
