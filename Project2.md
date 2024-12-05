@@ -35,7 +35,7 @@ For the block structure, Edge Impulse offers, by default (in this type of proble
 
 ![image](https://github.com/user-attachments/assets/f69fb871-cca6-4c81-b6b9-7bfbeaf1f886)
 
------------------------------------------------------------------------------------------
+*****************************************************************************************
 
 ![image](https://github.com/user-attachments/assets/6b33eb1b-2ca7-4b43-ad16-fa7eb3bad862)
 
@@ -43,7 +43,7 @@ For the block structure, Edge Impulse offers, by default (in this type of proble
 
 We are expecting an enhancement as a result of having more and better-quality data.
 
-![image](https://github.com/user-attachments/assets/834e8f54-c96d-4e1e-80e8-5186e5145ffd)
+![image](https://github.com/user-attachments/assets/6abebf27-7077-4709-9321-6eb9ddb78881)
 
 **Fourth Idea: Dropout rate.**
 
