@@ -63,6 +63,8 @@ From 20 to 50 training cycles:
 
  </p>
 
+![image](https://github.com/user-attachments/assets/aea1084d-2cf5-4703-a56a-fe195b3b5b81)
+
 **Last but not least: How to interpret results?**
 
  [1] https://docs.arduino.cc/tutorials/nicla-vision/image-classification/
