@@ -69,5 +69,17 @@ From 20 to 50 training cycles:
 
 **Last but not least: How to interpret results?**
 
+ROC: This indicates the model’s ability to distinguish between classes. An AUC of 0.95 suggests excellent performance, as it is close to 1.0. 
+
+Precision: Measures the proportion of true positives (correctly classified instances) out of all instances predicted as positive.
+
+Recall: Measures the proportion of true positives out of all actual positives.
+
+F1 Score: The harmonic mean of precision and recall, balancing both metrics.
+
+**Conclusions:**
+
+Definetly, we have proven that adaptative learning rate algorithms (Adam, Adagrad...) are completely necessary to get high-quality results. Also, we have observed that images with RGB colours perform better. This change (coming from Grayscale)took only a few miliseconds more, yet it improved overall performance. Finally, as anticipated, increasing the number of training cycles leads to a reduction in loss, allowing the model to better fit the training data.
+
  [1] https://docs.arduino.cc/tutorials/nicla-vision/image-classification/
 
