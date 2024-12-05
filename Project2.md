@@ -81,5 +81,7 @@ F1 Score: The harmonic mean of precision and recall, balancing both metrics.
 
 Definetly, we have proven that adaptative learning rate algorithms (Adam, Adagrad...) are completely necessary to get high-quality results. Also, we have observed that images with RGB colours perform better. This change (coming from Grayscale)took only a few miliseconds more, yet it improved overall performance. Finally, as anticipated, increasing the number of training cycles leads to a reduction in loss, allowing the model to better fit the training data.
 
+
+ </p>
  [1] https://docs.arduino.cc/tutorials/nicla-vision/image-classification/
 
