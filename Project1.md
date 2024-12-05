@@ -31,4 +31,6 @@ For the third attempt, a more rudimentary model, FOMO (Faster Objects, More Obje
 
 In conclusion, a machine learning model needs time, resources and strength - many samples passed through countless training cycles - to reach the necessary maturity and maximize the precision and accuracy of an image detection and classification program.
 
+https://studio.edgeimpulse.com/studio/563939
+
  </p>
