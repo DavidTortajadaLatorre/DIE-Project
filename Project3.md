@@ -1,4 +1,6 @@
-This code implements a **convolutional neural network (CNN)** for image classification, utilizing the fuctions available in the **TensorFlow and Keras libraries** for model development, training, and evaluation. The use of these libraries was choosen due to their ease of use and popularity. 
+<p align="justify">
+
+Our code implements a **convolutional neural network (CNN)** for image classification, utilizing the fuctions available in the **TensorFlow and Keras libraries** for model development, training, and evaluation. The use of these libraries was choosen due to their ease of use and popularity. 
 
 The dataset used has **10 classes** and can be found at the following link - https://www.kaggle.com/datasets/karimabdulnabi/fruit-classification10-class
 
@@ -38,7 +40,7 @@ After training, the model is evaluated on the test set to compute the final test
 
 **Results:**
 
-<p align="center">
+
  
 ![image](https://github.com/user-attachments/assets/0217b5a0-558f-407c-80fd-4a3a926efa75)
 
