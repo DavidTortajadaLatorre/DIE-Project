@@ -17,6 +17,8 @@ That is why in the first place we are presenting a Fruit Classification Problem 
 
 _In this case we are trying to beat an already done project trying to adjust different aspects of the model such as learning rate, neural network architecture, image processing blocks… The initial accuracy we want to outperform is 82%._
 
+**Made by used Citric: https://studio.edgeimpulse.com/public/269519/latest**
+
 3-Python Program:
 
 _Last but not least, we opt for a “non limited” option using Python. There will be 10 different classes with a total of photographies (Training + Tesing) equal to 3398._ 
