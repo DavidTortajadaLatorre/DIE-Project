@@ -55,6 +55,9 @@ In addition, the inital model was way too complex. As a consequence, we reduced 
 
 The neural network demonstrates strong performance in the fruit classification task, with increasing training and validation accuracy and consistently decreasing loss curves. This indicates effective learning and good generalization. **The close alignment of training and validation metrics suggests minimal overfitting.** Additionally, the confusion matrix shows accurate predictions across all classes, with only  1 minor misclassification, confirming balanced and reliable model performance.
 
+The whole code can be found at the following link - https://colab.research.google.com/drive/1V-eoDVVDDqmeveHjQuz0WtJiPrq1PaT5#scrollTo=6Bo2zeNkXz4K
+
+
  </p>
 
 
